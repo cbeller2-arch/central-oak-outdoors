@@ -274,7 +274,7 @@ export default function App() {
             />
             <StatCard
               title="What We Do"
-              text="We help take people duck hunting, turkey hunting, deer hunting where available, and fishing, creating space for real connection, encouragement, and conversations that matter."
+              text="We help take people duck hunting, turkey hunting, deer hunting, and fishing, creating space for real connection, encouragement, and conversations that matter."
             />
             <StatCard
               title="How Gear Helps"
@@ -335,7 +335,7 @@ export default function App() {
             <div className="max-w-3xl">
               <SectionLabel>Hunt Opportunities</SectionLabel>
               <h2 className="text-4xl font-black leading-tight md:text-5xl">
-                Duck. Turkey. Deer where available. Fishing trips. All with purpose.
+                Duck. Turkey. Deer. Fishing trips. All with purpose.
               </h2>
             </div>
 
@@ -346,7 +346,7 @@ export default function App() {
                   For people who need community, encouragement, and time outdoors.
                 </h3>
                 <p className="mt-4 leading-8 text-[#d7d0c5]">
-                  Ministry opportunities may include duck hunts, turkey hunts, fishing trips, and deer hunt interest where available. These are aimed toward youth, veterans, church groups, men’s groups, and others who could benefit from fellowship, mentorship, and a Christ-centered experience in the outdoors.
+                  Ministry opportunities may include duck hunts, turkey hunts, fishing trips, and deer hunt interest. These are aimed toward youth, veterans, church groups, men’s groups, and others who could benefit from fellowship, mentorship, and a Christ-centered experience in the outdoors.
                 </p>
               </div>
 
@@ -356,7 +356,7 @@ export default function App() {
                   For outdoorsmen interested in a paid guided trip that supports the mission.
                 </h3>
                 <p className="mt-4 leading-8 text-[#d7d0c5]">
-                  Guided trip requests help create sustainability and support the broader ministry. This may include duck, turkey, deer where available, or fishing experiences for people who want a strong outdoor trip while helping fund outreach.
+                  Guided trip requests help create sustainability and support the broader ministry. This may include duck, turkey, deer or fishing experiences for people who want a strong outdoor trip while helping fund outreach.
                 </p>
               </div>
             </div>
@@ -465,7 +465,7 @@ export default function App() {
                   Tell us what kind of opportunity you are looking for.
                 </h2>
                 <p className="mt-5 leading-8 text-[#d7d0c5]">
-                  Use this form for ministry hunts, fishing trips, deer hunt interest where available, nominating someone in need of an outdoor opportunity,
+                  Use this form for ministry hunts, fishing trips, deer hunt interest, nominating someone in need of an outdoor opportunity,
                   or asking about a paid guided trip that helps support the mission.
                 </p>
                 <div className="mt-5 rounded-2xl border border-[#5a4632] bg-black/25 p-4 text-sm leading-6 text-[#d7d0c5]">
