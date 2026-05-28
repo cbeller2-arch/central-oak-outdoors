@@ -12,15 +12,15 @@ const brand = {
 };
 
 const photos = {
-  hero: "/images/hero-group.JPEG",
-  turkeyWater: "/images/turkey-water.JPEG",
-  duckTruck: "/images/duck-truck.JPEG",
-  waterfowlLog: "/images/waterfowl-log.JPEG",
-  youth: "/images/youth-hunt.JPEG",
-  youngHunter: "/images/young-hunter.JPEG",
-  groupWoods: "/images/group-woods.JPEG",
-  oilfieldTurkey: "/images/oilfield-turkey.JPEG",
-  groupRam: "/images/group-ram.JPEG",
+  hero: "/images/hero-group.jpeg",
+  turkeyWater: "/images/turkey-water.jpeg",
+  duckTruck: "/images/duck-truck.jpeg",
+  waterfowlLog: "/images/waterfowl-log.jpeg",
+  youth: "/images/youth-hunt.jpeg",
+  youngHunter: "/images/young-hunter.jpeg",
+  groupWoods: "/images/group-woods.jpeg",
+  oilfieldTurkey: "/images/oilfield-turkey.jpeg",
+  groupRam: "/images/group-ram.jpeg",
 };
 
 const serveGroups = [
